@@ -1,5 +1,3 @@
-# Sales_Insights_v1
-
 
 # Atliq Hardwares Sales Insights Dashboard
 
