@@ -1,6 +1,6 @@
 # Hospitality Revenue Insights Dashboard
 
-![Dashboard Preview]("G:\study stuff\DATA ANALYTICS PROJECTS\project\end-to-end-data-analyst-project\WhatsApp Image 2024-08-06 at 08.30.47_d4b9d978.jpg")
+![Dashboard Preview](G:\study stuff\DATA ANALYTICS PROJECTS\project\end-to-end-data-analyst-project\WhatsApp Image 2024-08-06 at 08.30.47_d4b9d978.jpg)
 
 ## Introduction
 
